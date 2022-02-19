@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="me.yhh.test.code_mgmt_cdgct">
+    <uses-permission android:name="android.permission.INTERNET" />
    <application
         android:label="code_mgmt_cdgct"
         android:name="${applicationName}"
